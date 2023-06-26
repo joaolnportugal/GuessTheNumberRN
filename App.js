@@ -8,8 +8,6 @@ import GameScreen from "./screens/GameScreen";
 import Colors from "./constants/colors";
 import GameOverScreen from "./screens/GameOverScreen";
 import AppLoading from "./node_modules/expo-app-loading/build/AppLoading";
-// @ts-ignore
-// import { StatusBar } from "node_modules/expo-status-bar";
 import { StatusBar } from "expo-status-bar";
 
 export default function App() {
